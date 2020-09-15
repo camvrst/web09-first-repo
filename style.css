@@ -3,7 +3,8 @@ h1 {
 }
 p {
   background-color: aquamarine;
+  color: orange;
 }
 body {
-  font-family : 'Segoe';
+  font-family: "Segoe";
 }
